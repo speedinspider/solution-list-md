@@ -1,2 +1,3 @@
 # mdrp-list
-dump of scripts
+wellcheese's dump of scripts
+**do not use these for malicious purposes**
