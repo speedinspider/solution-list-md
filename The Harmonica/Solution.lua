@@ -2,7 +2,7 @@
    Called it "the harmonica" for dramatic effect XD
 
    Since the event can be spammed with any accessory and it will crash/lag the server
-   you need to just add a cooldown serverside on the customizer script.
+   you need to just add a cooldown serverside on the import script.
 
    (ImportAccessory script)
 ]]
