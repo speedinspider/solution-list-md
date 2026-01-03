@@ -1,4 +1,3 @@
-
 -- Practically the same as the Freeze Exploit.
 local Character = "find the character"
 local Player = game.Players:GetPlayerFromCharacter(Character)
